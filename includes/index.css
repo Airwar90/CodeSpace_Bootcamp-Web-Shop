@@ -1,0 +1,131 @@
+body {
+	background-color: black;
+	color: white!important;
+}
+
+.navbar {
+	background-color:rgb(68, 72, 82);
+	color: black!important;		
+}
+
+
+
+
+ul.nav a:hover { 
+	background-color: rgb(128, 128, 128);
+	color:black!important; 
+}
+
+/* .nav-item:hover {	
+	
+	background-color: rgba(73, 60, 60, 0.253);
+	color: black!important;
+
+} */
+
+.dropdown-menu {
+	background-color: rgb(68, 72, 82);
+}
+
+
+body {
+	background-color:black;
+	margin:auto;
+}
+
+a {
+	color: black;
+}
+
+/* a:hover {
+	color: white;
+} */
+
+header {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color:black;
+}
+.logo {
+	
+	width:5%;
+}
+
+/* h1 {
+	text-align:center;
+	font-family:Arial;
+	font-size: 500%;
+	font-weight: 100;
+	color:rgb(128, 128, 128);
+	
+} */
+
+img {
+	width: 100%;
+	
+}
+
+.card-deck {
+	
+	padding-top: 150px;
+	margin: auto;
+	text-align: center;
+	color: black;
+	
+}
+.card {
+	background-color:rgb(68, 72, 82);
+}
+.card-text {
+	
+	margin: auto;
+}
+
+.card-footer {
+	
+	margin: auto;
+	text-align: center;
+}
+
+
+footer {
+	margin-top: 50px;
+	margin:auto;
+	
+}
+footer a {
+	color:rgb(128, 128, 128);
+	
+}
+
+#foot-link {
+	padding-top: 50px;
+	margin:center-left;
+	text-align:center;
+}
+
+.w-100 {
+  margin:auto;
+  width: 50% !important;
+  height: auto;
+}
+
+@media screen and (max-width: 768px) {
+	.carousel .carousel-inner{
+
+		height:auto 
+	}
+	  #container {
+		  width: 90%;
+	  }
+	  h1 {
+		  font-size: 200%;
+	  }
+ }
+
+#form-login {
+	
+	margin: auto;
+	padding-left: 300px;
+	padding-right:300px;
+}
